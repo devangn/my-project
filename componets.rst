@@ -271,9 +271,10 @@ Components
    <div class=3D"cell normal" data-type=3D"normal">=20
    <div class=3D"innerCell">=20
    <ul>
-   <li style=3D"text-decoration: none;"><p>Nginx (<a href=3D"https://www.nginx=
-   .com/" class=3D"external-link" rel=3D"nofollow"><span style=3D"color: rgb(1=
-   7,85,204);text-decoration: underline;">http://nginx.com/</span></a>)</p></l=
+   <li style=3D"text-decoration: none;"><p>Nginx .. toctree::
+   :maxdepth: 2
+
+   features.rst</p></l=
    i>
    <ul>
    <li style=3D"text-decoration: none;"><p><span style=3D"color: rgb(34,34,34)=
