@@ -1,8 +1,3 @@
-.. toctree::
-   :maxdepth: 2
-
-   componets.rst
-
 .. contents::
    :depth: 3
 ..
@@ -255,6 +250,11 @@ Features
    <h1>
 
 Features
+
+.. toctree::
+   :maxdepth: 2
+
+   componets.rst
 
 .. raw:: html
 
@@ -811,5 +811,8 @@ data-type=3D“aside”>=20
 .. raw:: html
 
    </html>
+.. toctree::
+   :maxdepth: 2
 
+   componets.rst
 ——=_Part_92_760512240.1512393700736–
