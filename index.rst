@@ -257,18 +257,6 @@ Features
 
 .. raw:: html
 
-   <div class="3D"Section1"">
-
-::
-
-        <div class=3D"contentLayout2">=20
-
-.. raw:: html
-
-   <div class=3D"columnLayout two-equal" data-layout=3D"two-equal">=20
-   <div class=3D"cell normal" data-type=3D"normal">=20
-   <div class=3D"innerCell">=20
-   <div>
    <hr style=3D"margin-left: 15.0px;">
    <span class=3D"confluence-embedded-file-wrapper"><img class=3D"confluence-e=
    mbedded-image confluence-external-resource" src=3D"http://www.astpp.org/ima=
