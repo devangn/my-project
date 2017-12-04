@@ -1,3 +1,8 @@
+.. toctree::
+   :maxdepth: 2
+
+   componets.rst
+
 .. contents::
    :depth: 3
 ..
