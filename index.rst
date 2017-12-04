@@ -2,14 +2,6 @@
    :depth: 3
 ..
 
-Message-ID: 1592786321.93.1512393700736.JavaMail.confluence@1a087f93c02e
-Subject: Exported From Confluence MIME-Version: 1.0 Content-Type:
-multipart/related; boundary=“—-=_Part_92_760512240.1512393700736"
-
-——=_Part_92_760512240.1512393700736 Content-Type: text/html;
-charset=UTF-8 Content-Transfer-Encoding: quoted-printable
-Content-Location: file:///C:/exported.html
-
 .. raw:: html
 
    <html xmlns:o="3D'urn:schemas-microsoft-com:office:office'" xmlns:w="3D'urn:schemas-microsoft-com:office:word'" xmlns:v="3D'urn:schemas-microsoft-com:vml'" xmlns="3D'urn:w3-org-ns:HTML'">
@@ -18,8 +10,6 @@ Content-Location: file:///C:/exported.html
 
    <head>
 
-<meta http-equiv=3D“Content-Type” content=3D“text/html;
-charset=3Dutf-8=”>
 
 .. raw:: html
 
